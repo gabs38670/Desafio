@@ -6,5 +6,7 @@ h1{
 img{
     border: 9px solid blanchedalmond;
     border-radius: 8px;
+    position: absolute;
+    left: 70px;
     
 }

@@ -2,3 +2,6 @@ Adicionei um tag h1
 adicionei um imagem
 modifiquei o estilo da fonte
 alterei o tamanho da fonte para 70px
+fiz o texto ficar centralido
+coloquei uma imagem
+fiz uma colocação de borda
