@@ -5,3 +5,5 @@ alterei o tamanho da fonte para 70px
 fiz o texto ficar centralido
 coloquei uma imagem
 fiz uma colocação de borda
+fiz colocação da posição
+gi
